@@ -1,5 +1,5 @@
-# Supplementary materials for AgRE project: 
-### AgRE: Attention Guided and Multi-Scale Graph Convolutional Network for Relation Extraction from Chinese Agricultural-Aware Text
+# Supplementary materials for AgrRE project: 
+### AgrRE: Attention Guided and Multi-Scale Graph Convolutional Network for Relation Extraction from Chinese Agricultural-Aware Text
 
 including the [datasets](datasets/), [codes](source-code/), and an [appendix](other-materials/Appendix.pdf) containing the hyperparameters settings and other technical details.
 
